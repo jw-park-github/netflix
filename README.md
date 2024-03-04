@@ -1,6 +1,6 @@
 9oormthon Training 1st assignment
 
-# 01. HTML, CSS를 이용해서 넷플릭스 사이트 만들기
+## 01. HTML, CSS를 이용해서 넷플릭스 사이트 만들기
 (결과물)<br>
 ●	https://jw-park.com/netflix<br>
 <br>
